@@ -2,7 +2,7 @@
 
 Par la configuracion de endpoint primero debes de crear los collection types que aparecen de Content type builder este lado de la interfaz, y poner crear new collection type para crear uno nuevo
 
-![Alt text](/images/image1.png)
+![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/image1.png)
 
 ahi configurar el nombre de tu api y los atributos que necesites 
 
