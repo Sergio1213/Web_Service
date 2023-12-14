@@ -10,9 +10,9 @@ de endpoints disponibles con enlaces a sus respectivas documentaciones detallada
 | [`GET /api/categorias`](./GET-Categorias.md)               | Recupera la lista de todas las Categorias. |
 | [`GET /api/categorias/{id}`](./GET-Categorias-id.md)        | Obtiene información detallada sobre una Categoria. |
 | [`POST /api/categorias`](./POST-Categorias.md)  | Insertar una nueva Categoria |
-| `GET /api/pedidos`              | Obetener los pedidos |
-| `GET /api/pedidos/{id}` | Obtiene un pedido especifico. |
-| `POST /api/pedidos/`             | Crea un pedido. |
+| [`GET /api/pedidos`](./GET-Pedidos.md)              | Obetener los pedidos |
+| [`GET /api/pedidos/{id}`](./GET-Pedidos-id.md) | Obtiene un pedido especifico. |
+| [`POST /api/pedidos/`](./POST-Pedidos.md)            | Crea un pedido. |
 | `GET /api/productos`        | Obtiene información de todos los productos. |
 | `POST /api/productos`        | inserta un nuevo producto |
 | `GET /api/productos{id}`        | Obtiene información detallada de un pedido. |
