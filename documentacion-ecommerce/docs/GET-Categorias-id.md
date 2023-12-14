@@ -1,6 +1,6 @@
-# Endpoint: `GET /api/categorias`
+# Endpoint: `GET /api/categorias/{id}`
 
-Permite obtener información sobre todas las categorias
+Permite obtener información sobre una categoria en especifico
 
 ## Parámetros de URL
 - `{id}` (obligatorio): Identificador único de la categoria que se desea recuperar.
