@@ -16,4 +16,4 @@ de endpoints disponibles con enlaces a sus respectivas documentaciones detallada
 | [`GET /api/productos`](./GET-Productos.md)        | Obtiene información de todos los productos. |
 | [`POST /api/productos`](./POST-Productos.md)        | inserta un nuevo producto |
 | [`GET /api/productos{id}`](./GET-Productos-id.md)       | Obtiene información detallada de un pedido. |
-| [`POST /api/users`](.POST-Users.md)        | Crea un usuario |
+| [`POST /api/users`](./POST-Users.md)        | Crea un usuario |
