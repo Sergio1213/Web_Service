@@ -67,5 +67,5 @@ Si ponemos en el navegador la ruta de categorias con este url nos daria las cate
 
 ![alt img](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_222809616.png)
 
-que podemos ver qie si funcionan correctamente 
+que podemos ver que si funcionan correctamente 
 
