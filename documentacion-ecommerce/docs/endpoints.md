@@ -21,11 +21,7 @@ ahi configurar el nombre de tu api y los atributos que necesites
 
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/image5.png)
 
-En este caso estos serian la configuracion de mis endpoints 
-![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221823583.png)
-![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221840672.png)
-![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221853018.png)
-![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221904381.png)
+
 una vez creada tienes que dar permiso de quien quieres que acceda, si quieres que sea publico o alguien autentificado, para eso vaz a la parte de settings, y en **USERS & PERMISSIONS PLUGIN** te vaz a roles, ahi seleccionas publico y te apareceran todos los collections types creados, seleccionas uno, mi caso es categoria y le doy el permiso de find
 
 en la parte derecha aparece la ruta de la api y listo
