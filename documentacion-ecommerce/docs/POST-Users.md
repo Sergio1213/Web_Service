@@ -23,16 +23,18 @@ POST /api/users
 
 ## Respuesta Exitosa (Código 200 OK)
 ```json
-[
-  {
-    "id_libro": 234,
-    "titulo": "Fundamentos de Programación"
-  },
-  {
-    "id_libro": 345,
-    "titulo": "Introducción a la Programación Orientada a Objetos"
-  }
-]
+{
+    "data": {
+        "id": 3,
+        "attributes": {
+            "username": "pruebaaaaaaa",
+            "email": "email@gmail.commmm",
+            "updatedAt": "2023-12-14T09:04:53.168Z",
+            "publishedAt": "2023-12-14T09:04:53.163Z"
+        }
+    },
+    "meta": {}
+}
 ```
 
 ## Respuestas de Errores Posibles
