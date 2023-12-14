@@ -7,10 +7,13 @@ de endpoints disponibles con enlaces a sus respectivas documentaciones detallada
 
 | Recurso                    | Descripción |
 | -------------------------- | ----------- |
-| `GET /api/categorias`               | Recupera la lista de todos los temas disponibles. |
-| [`GET /temas/{id}`](./endpoints//get-temas-id.md)          | Obtiene información detallada sobre un tema específico. |
-| [`GET /temas/{id}/libros`](./endpoints/get-temas-id-libros.md)   | Obtiene la lista de libros asociados a un tema específico. |
-| `GET /libros`              | Recupera la lista de todos los libros disponibles. |
-| `GET /libros/{id}/autores` | Obtiene la lista de autores de un libro específico. |
-| `GET /autores`             | Recupera la lista de todos los autores disponibles. |
-| `GET /autores/{id}`        | Obtiene información detallada sobre un autor específico. |
+| `GET /api/categorias`               | Recupera la lista de todas las Categorias. |
+| `GET /api/categorias/{id}`        | Obtiene información detallada sobre una Categoria. |
+| `POST /api/categorias`  | Insertar una nueva Categoria |
+| `GET /api/pedidos`              | Obetener los pedidos |
+| `GET /api/pedidos/{id}` | Obtiene un pedido especifico. |
+| `POST /api/pedidos/`             | Crea un pedido. |
+| `GET /api/productos`        | Obtiene información de todos los productos. |
+| `POST /api/productos`        | inserta un nuevo producto |
+| `GET /api/productos{id}`        | Obtiene información detallada de un pedido. |
+| `POST /api/users`        | Crea un usuario |
