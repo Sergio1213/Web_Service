@@ -66,8 +66,3 @@ GET /api/pedidos
    
   }
   ``` 
-
-## Notas Adicionales
-
-- Asegurate de incluir un ID válido en la solicitud para obtener la información
-  sobre los libros de un tema en específico.
