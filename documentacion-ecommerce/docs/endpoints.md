@@ -26,7 +26,7 @@ una vez creada tienes que dar permiso de quien quieres que acceda, si quieres qu
 
 en la parte derecha aparece la ruta de la api y listo
 
-En este caso la ruta es ***/api/categorias***, donde tienen que agregar el localhost y el puerto que en este caso quedaria asi ***http://localhost:1338/api/categorias***
+En este caso la ruta es ***/api/categorias***, donde tienen que agregar el localhost y el puerto que en este caso quedaria asi ***"http://localhost:1338/api/categorias"***
 
 y hace eso exactamente con todos los collections types que requieras
 
