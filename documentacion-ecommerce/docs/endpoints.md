@@ -41,3 +41,11 @@ En este caso estos serian la configuracion de mis endpoints
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221840672.png)
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221853018.png)
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221904381.png)
+
+
+Si ponemos en el navegador la ruta de categorias con este url nos daria las categoria existentes http://localhost:1338/api/categorias
+
+![alt img](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_222809616.png)
+
+que podemos ver qie si funcionan correctamente 
+
