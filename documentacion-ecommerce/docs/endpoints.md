@@ -35,3 +35,9 @@ y hace eso exactamente con todos los collections types que requieras
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/image7.png)
 
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/image8.png)
+
+En este caso estos serian la configuracion de mis endpoints 
+![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221823583.png)
+![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221840672.png)
+![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221853018.png)
+![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221904381.png)
