@@ -15,11 +15,9 @@ ahi configurar el nombre de tu api y los atributos que necesites
 
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/image3.png)
 
-una vez creada tienes que dar permiso de quien quieres que acceda, si quieres que sea publico o alguien autentificado, para eso vaz a la parte de settings, y en **USERS & PERMISSIONS PLUGIN** te vaz a roles, ahi seleccionas publico y te apareceran todos los collections types creados, seleccionas uno, mi caso es categoria y le doy el permiso de find
 
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/image4.png)
 
-en la parte derecha aparece la ruta de la api y listo
 
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/image5.png)
 
@@ -28,6 +26,9 @@ En este caso estos serian la configuracion de mis endpoints
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221840672.png)
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221853018.png)
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221904381.png)
+una vez creada tienes que dar permiso de quien quieres que acceda, si quieres que sea publico o alguien autentificado, para eso vaz a la parte de settings, y en **USERS & PERMISSIONS PLUGIN** te vaz a roles, ahi seleccionas publico y te apareceran todos los collections types creados, seleccionas uno, mi caso es categoria y le doy el permiso de find
+
+en la parte derecha aparece la ruta de la api y listo
 
 En este caso la ruta es ***/api/categorias***, donde tienen que agregar el localhost y el puerto que en este caso quedaria asi ***http://localhost:1338/api/categorias***
 
