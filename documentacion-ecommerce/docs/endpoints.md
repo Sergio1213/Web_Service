@@ -1,5 +1,10 @@
 # Configuracion de Endpoints
 
+No olvidemos primero levantar el servidor con el siguiente comando, en la ruta de la carpeta donde se instalo el strapi
+**Levantar el servidor**
+```cmd
+npm run develop
+```
 Par la configuracion de endpoint primero debes de crear los collection types que aparecen de Content type builder este lado de la interfaz, y poner crear new collection type para crear uno nuevo
 
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/image1.png)
