@@ -23,7 +23,13 @@ en la parte derecha aparece la ruta de la api y listo
 
 ![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/image5.png)
 
-En este caso la ruta es ***/api/categorias***
+En este caso estos serian la configuracion de mis endpoints 
+![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221823583.png)
+![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221840672.png)
+![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221853018.png)
+![Alt text](https://github.com/Sergio1213/Web_Service/blob/main/documentacion-ecommerce/images/imagen_2023-12-13_221904381.png)
+
+En este caso la ruta es ***/api/categorias***, donde tienen que agregar el localhost y el puerto que en este caso quedaria asi ***http://localhost:1338/api/categorias***
 
 y hace eso exactamente con todos los collections types que requieras
 
